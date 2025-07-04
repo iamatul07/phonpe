@@ -1,0 +1,42 @@
+export const storeData = [
+  {
+    id:1,
+    shopName: 'KFC',
+    rating: 4.2,
+    distance: '50m',
+    close_at: '10PM',
+    last_paid: 'Last paid ₹1000 ,2 months ago',
+  },
+  {
+    id:2,
+    shopName: 'WOW MOM',
+    rating: 4.1,
+    distance: '30m',
+    close_at: '10PM',
+    last_paid: 'Last paid ₹600 ,1 months ago',
+  },
+  {
+    id:3,
+    shopName: 'STYLE UP',
+    rating: 4.0,
+    distance: '10m',
+    close_at: '11PM',
+    last_paid: 'Last paid ₹5000 ,1 months ago',
+  },
+  {
+    id:4,
+    shopName: 'BATA',
+    rating: 3.9,
+    distance: '50m',
+    close_at: '16PM',
+    last_paid: 'Last paid ₹600 ,1 week ago',
+  },
+  {
+    id:5,
+    shopName: 'VISHAL MART',
+    rating: 3.7,
+    distance: '60m',
+    close_at: '10PM',
+    last_paid: 'Last paid ₹700 ,1 day ago',
+  },
+];
